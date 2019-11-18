@@ -1,0 +1,16 @@
+.button {
+    -fx-background-color: green;
+    -fx-background-radius: 0;
+    -fx-border-color: black;
+    -fx-border-width: 1 1 1 1;
+}
+
+.button:focused {
+    -fx-background-color: #0A0;
+}
+
+.label {
+    -fx-background-color: #444;
+    -fx-font-size: 25;
+    -fx-text-fill: #fff;
+}
